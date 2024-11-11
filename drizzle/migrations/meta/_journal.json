@@ -1,20 +1,20 @@
 {
-  "version": "7",
-  "dialect": "sqlite",
-  "entries": [
-    {
-      "idx": 0,
-      "version": "6",
-      "when": 1731238752848,
-      "tag": "0000_spicy_network",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "6",
-      "when": 1731250221922,
-      "tag": "0001_sticky_magneto",
-      "breakpoints": true
-    }
-  ]
+    "version": "7",
+    "dialect": "sqlite",
+    "entries": [
+        {
+            "idx": 0,
+            "version": "6",
+            "when": 1731238752848,
+            "tag": "0000_spicy_network",
+            "breakpoints": true
+        },
+        {
+            "idx": 1,
+            "version": "6",
+            "when": 1731250221922,
+            "tag": "0001_sticky_magneto",
+            "breakpoints": true
+        }
+    ]
 }
